@@ -1962,6 +1962,14 @@ const addons = [
         file: "DataCode/weather-api.js",
         author: "BludIsAnLemon, 0znzw",
         authorLink: null
+    },
+    {
+        name: "Simple Noise",
+        description: "Мощный инструмент для генерации различных шумов.",
+        image: "DataImage/Simple Noise.svg",
+        file: "DataCode/Simple Noise.js",
+        author: "Dimka10",
+        authorLink: "https://scratch.mit.edu/users/Dimka10/"
     }
 ];
 
