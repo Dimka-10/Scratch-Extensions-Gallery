@@ -1982,7 +1982,7 @@ const addons = [
     {
         name: "PDF viewer",
         description: "Получите информацию о погоде в определенном месте с помощью Weather API.",
-        image: "DataImage/PDFviewer.svg",
+        image: "DataImage/PDFviewer.png",
         file: "DataCode/PDF view.js",
         author: "Dimka10",
         authorLink: "https://scratch.mit.edu/users/Dimka10/"
@@ -2083,6 +2083,7 @@ function filterAddons() {
 }
 
 renderAddons(addons);
+
 
 
 
