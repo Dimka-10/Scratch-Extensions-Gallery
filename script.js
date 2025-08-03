@@ -1970,6 +1970,14 @@ const addons = [
         file: "DataCode/Simple Noise.js",
         author: "Dimka10",
         authorLink: "https://scratch.mit.edu/users/Dimka10/"
+    },
+    {
+        name: "MountainAI",
+        description: "Позволяет обучать и запускать свои маленькие ии прямо в проекте без интернета.",
+        image: "DataImage/Banner.svg",
+        file: "DataCode/Mountain-AI.js",
+        author: "RadereDev",
+        authorLink: null
     }
 ];
 
@@ -2067,3 +2075,4 @@ function filterAddons() {
 }
 
 renderAddons(addons);
+
