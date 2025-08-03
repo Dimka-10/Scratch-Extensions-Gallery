@@ -405,7 +405,7 @@ const addons = [
     },
     {
         name: "electragpt",
-        description: "Новое дополнение, о подробностях сообщат позже.",
+        description: "Блоки для взаймодействия с gpt",
         image: "DataImage/electragpt.png",
         file: "DataCode/electragpt.js",
         author: "???",
@@ -413,15 +413,15 @@ const addons = [
     },
     {
         name: "EvalPlus",
-        description: "Новое дополнение, о подробностях сообщат позже.",
+        description: "Блоки для использования JavaScript и scc в ваших проектах",
         image: "DataImage/EvalPlus.png",
         file: "DataCode/EvalPlus.js",
         author: "???",
         authorLink: null
     },
     {
-        name: "ExportSpriteDataURI",
-        description: "Новое дополнение, о подробностях сообщат позже.",
+        name: "Export Sprite Data",
+        description: "Экспортирует данные спрайтов в URL",
         image: "DataImage/ExportSpriteDataURI.png",
         file: "DataCode/ExportSpriteDataURI.js",
         author: "???",
@@ -429,7 +429,7 @@ const addons = [
     },
     {
         name: "Extra Utilities",
-        description: "Новое дополнение, о подробностях сообщат позже.",
+        description: "Различные блоки утилиты",
         image: "DataImage/Extra Utilities.png",
         file: "DataCode/Extra Utilities.js",
         author: "???",
@@ -437,7 +437,7 @@ const addons = [
     },
     {
         name: "extrainputs",
-        description: "Новое дополнение, о подробностях сообщат позже.",
+        description: "Разные scratch аргументы",
         image: "DataImage/extrainputs.png",
         file: "DataCode/extrainputs.js",
         author: "???",
@@ -445,7 +445,7 @@ const addons = [
     },
     {
         name: "Fast_List_Set",
-        description: "Новое дополнение, о подробностях сообщат позже.",
+        description: "Позволяет загружать в списки json",
         image: "DataImage/Fast_List_Set.png",
         file: "DataCode/Fast_List_Set.js",
         author: "???",
@@ -453,15 +453,15 @@ const addons = [
     },
     {
         name: "Faster Blur Uri Legacy",
-        description: "Новое дополнение, о подробностях сообщат позже.",
+        description: "Добавляет размытие картинкам",
         image: "DataImage/Faster Blur Uri Legacy.png",
         file: "DataCode/Faster Blur Uri Legacy.js",
         author: "???",
         authorLink: null
     },
     {
-        name: "Faster Blur Uri",
-        description: "Новое дополнение, о подробностях сообщат позже.",
+        name: "Faster Blur Uri v2",
+        description: "Добавляет размытие картинкам",
         image: "DataImage/Faster Blur Uri.png",
         file: "DataCode/Faster Blur Uri.js",
         author: "???",
@@ -469,7 +469,7 @@ const addons = [
     },
     {
         name: "FastObject",
-        description: "Новое дополнение, о подробностях сообщат позже.",
+        description: "Создает json обьекты",
         image: "DataImage/FastObject.png",
         file: "DataCode/FastObject.js",
         author: "???",
@@ -2083,6 +2083,7 @@ function filterAddons() {
 }
 
 renderAddons(addons);
+
 
 
 
