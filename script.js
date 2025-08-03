@@ -1984,8 +1984,8 @@ const addons = [
         description: "Получите информацию о погоде в определенном месте с помощью Weather API.",
         image: "DataImage/PDFviewer.svg",
         file: "DataCode/PDF view.js",
-        author: "BludIsAnLemon, 0znzw",
-        authorLink: null
+        author: "Dimka10",
+        authorLink: "https://scratch.mit.edu/users/Dimka10/"
     }
 ];
 
@@ -2083,5 +2083,6 @@ function filterAddons() {
 }
 
 renderAddons(addons);
+
 
 
