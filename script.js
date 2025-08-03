@@ -1978,6 +1978,14 @@ const addons = [
         file: "DataCode/Mountain-AI.js",
         author: "RadereDev",
         authorLink: null
+    },
+    {
+        name: "PDF viewer",
+        description: "Получите информацию о погоде в определенном месте с помощью Weather API.",
+        image: "DataImage/PDFviewer.svg",
+        file: "DataCode/PDF view.js",
+        author: "BludIsAnLemon, 0znzw",
+        authorLink: null
     }
 ];
 
@@ -2075,4 +2083,5 @@ function filterAddons() {
 }
 
 renderAddons(addons);
+
 
